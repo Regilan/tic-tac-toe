@@ -1,5 +1,5 @@
 TIC TAC TOE
-- Version RS01 -
+- Version RS01
 
 'Created': J. Maria Irudaya Regilan., B.E (CS)
 'Date': August, 2017
